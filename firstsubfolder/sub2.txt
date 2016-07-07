@@ -1,3 +1,4 @@
 I am subfolder 2
 line 2 sub 2
 kickass, bitches
+line 3 this time, test
